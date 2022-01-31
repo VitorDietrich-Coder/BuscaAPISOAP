@@ -12,7 +12,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/VitorDietrich-Coder/BuscaAPISOAP?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/VitorDietrich-Coder/BuscaAPISOAP?style=for-the-badge)
 
-A little more of my studie C#
 
 <p align="left">
   🦄 Language: <strong> 
